@@ -2,6 +2,7 @@
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/2a5f9542-15a6-48ae-868b-88aab3b1e009">
 
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/6580a690-52e2-4f1a-9a4d-8325802efad7">
 
 
 Welcome to the Pizzata's Pizza website project! This is a simple, responsive website for a fictional pizza restaurant, showcasing the restaurant's menu and story.
